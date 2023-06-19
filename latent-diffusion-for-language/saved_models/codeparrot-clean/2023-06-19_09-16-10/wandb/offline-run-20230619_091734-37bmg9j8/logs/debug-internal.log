@@ -1,0 +1,16 @@
+2023-06-19 09:17:34,678 INFO    StreamThr :12988 [internal.py:wandb_internal():88] W&B internal server running at pid: 12988, started at: 2023-06-19 09:17:34.671495
+2023-06-19 09:17:34,687 DEBUG   HandlerThread:12988 [handler.py:handle_request():138] handle_request: status
+2023-06-19 09:17:34,690 DEBUG   SenderThread:12988 [sender.py:send_request():317] send_request: status
+2023-06-19 09:17:34,693 INFO    WriterThread:12988 [datastore.py:open_for_write():75] open: saved_models/codeparrot-clean/2023-06-19_09-16-10/wandb/offline-run-20230619_091734-37bmg9j8/run-37bmg9j8.wandb
+2023-06-19 09:17:34,694 DEBUG   HandlerThread:12988 [handler.py:handle_request():138] handle_request: run_start
+2023-06-19 09:17:34,704 DEBUG   HandlerThread:12988 [meta.py:__init__():34] meta init
+2023-06-19 09:17:34,705 DEBUG   HandlerThread:12988 [meta.py:__init__():49] meta init done
+2023-06-19 09:17:34,705 DEBUG   HandlerThread:12988 [meta.py:probe():215] probe
+2023-06-19 09:17:34,717 DEBUG   HandlerThread:12988 [git.py:repo():40] git repository is invalid
+2023-06-19 09:17:34,717 DEBUG   HandlerThread:12988 [meta.py:_save_pip():53] save pip
+2023-06-19 09:17:34,722 DEBUG   HandlerThread:12988 [meta.py:_save_pip():67] save pip done
+2023-06-19 09:17:34,722 DEBUG   HandlerThread:12988 [meta.py:_save_conda():74] save conda
+2023-06-19 09:17:38,615 DEBUG   HandlerThread:12988 [meta.py:_save_conda():84] save conda done
+2023-06-19 09:17:38,615 DEBUG   HandlerThread:12988 [meta.py:probe():253] probe done
+2023-06-19 09:23:51,876 INFO    MainThread:12988 [internal.py:handle_exit():78] Internal process exited
+2023-06-19 09:23:51,877 WARNING MsgRouterThr:12988 [router.py:message_loop():74] EOFError seen in message_loop
