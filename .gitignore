@@ -3,3 +3,4 @@ instruct-eval/*.jsonl
 *.tar
 *.csv
 *.pkl
+*.DS_Store
