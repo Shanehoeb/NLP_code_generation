@@ -1,3 +1,0 @@
-tiktoken==0.1.2
-transformers==4.24.0
-editdistance==0.6.2
