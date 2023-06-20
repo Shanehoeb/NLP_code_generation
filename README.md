@@ -11,8 +11,8 @@ First, we reproduce some important results about Large Language models and their
 The report is available [here](https://github.com/https://github.com/Shanehoeb/NLP_code_generation/NLP_Project.pdf)
 
 The github is organized in 3 parts :
-- 1 for reproducing the rsults -> lien
-- 1 for codeT exploration
-- 1 for the latent-diffusion for text exploration
+- [A first part](https://github.com/Shanehoeb/NLP_code_generation/tree/main/reproduce-results) for reproducing results from LLaMA and CodeGen on the HumanEval benchmark.
+- [A Second part](https://github.com/Shanehoeb/NLP_code_generation/tree/main/code-T-results) for exploring Code-T, a concept for human-like reasoning for code generation using generated unit tests.
+- [A third part](https://github.com/Shanehoeb/NLP_code_generation/tree/main/latent-diffusion-for-language) for the adaptation of a text latent-diffusion model for training on code.
 
 Mot de remerciement
